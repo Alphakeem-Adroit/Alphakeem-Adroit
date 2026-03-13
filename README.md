@@ -79,6 +79,6 @@
 
 # 💻 Contribution 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aalphakeem-Adroit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aalphakeem-Adroit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&exclude_repo=Aalphakeem-Adroit" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alphakeem-Adroit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alphakeem-Adroit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&exclude_repo=Alphakeem-Adroit" height="150" alt="languages graph"  />
 </div>
