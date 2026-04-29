@@ -1,6 +1,6 @@
 # 👋 Hello, this is Busari Akeem Tunde!
 
-<h2 align="left">Software Engineer | Crafting Seamless Digital Experiences | Transforming User Experiences with Innovative Designs and Robust Code | Passionate about Innovative Solutions, Continuous and Deep Learning</h2>
+<h2 align="left">Software Engineer | UX-focused Frontend & Backend Web Developer</h2>
 
 
 # Tech Stack 🖥️
