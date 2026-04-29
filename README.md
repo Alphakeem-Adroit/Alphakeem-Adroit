@@ -22,6 +22,5 @@ Software Engineer | UX-focused Frontend & Backend Web Developer
 ![](https://github-contributor-stats.vercel.app/api?username=Alphakeem-Adroit&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Alphakeem-Adroit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
