@@ -1,6 +1,13 @@
 # 💫 About Me:
-Software Engineer | UX-focused Frontend & Backend Web Developer
+I’m Busari Akeem, a full-stack developer focused on building simple, scalable products that solve real-world problems.
 
+Recently, I’ve been working on an e-commerce backend that helps small business owners easily list and manage their products without needing technical skills. The problem I noticed was that many small vendors struggle to get their products online in a structured way.
+
+So, I built a Django-powered system where business owners can upload products with images, pricing, and descriptions, while keeping the architecture simple and scalable for future growth.
+
+Beyond that, I’ve also built some React-based applications and my personal portfolio, sharpening my ability to create clean, user-friendly interfaces.
+
+What I bring is the ability to take an idea from concept to a working product—focusing on practicality, clarity, and solutions that actually serve everyday users, especially in emerging markets.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alphakeem.adroit) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alphakeem_adroit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akeem-tunde-busari) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@alphakeemadroit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@alphakeemAdroit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:busariabdulhakeem@gmail.com) 
