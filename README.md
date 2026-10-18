@@ -79,28 +79,6 @@ I document these decisions through clean Git history, pull requests, tests, tech
 
 ---
 
-## Selected Projects
-
-### Production Web Platform
-**Python • Django • DRF • PostgreSQL**
-
-Backend development for a multi-feature web platform involving user accounts, educational resources, e-commerce functionality, inventory, orders, payments and administrative operations.
-
-**Engineering areas:** API architecture, authentication, database modelling, transactional workflows, payment processing and production-oriented backend design.
-
-### Django REST API
-**Python • Django • DRF • MySQL**
-
-Designed and deployed a REST API with content management, rich-text publishing, image handling and frontend integration.
-
-**Engineering areas:** REST API design, relational data modelling, media handling, deployment and API consumption.
-
-### More Engineering Work
-
-Explore my pinned repositories below for implementation details, documentation, development history and architecture decisions.
-
----
-
 ## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Alphakeem-Adroit&theme=transparent&hide_border=true&show_icons=true)
@@ -111,7 +89,7 @@ Explore my pinned repositories below for implementation details, documentation, 
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akeem_Busari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akeem-tunde-busari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Busari_Akeem_Tunde-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akeem-tunde-busari)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-000000?style=flat-square&logo=firefox&logoColor=white)](https://alphakeem.adroittechlab.com)
 [![Email](https://img.shields.io/badge/Email-alphakeem12@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:busariabdulhakeem@gmail.com)
 
