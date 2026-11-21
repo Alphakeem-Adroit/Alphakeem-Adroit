@@ -1,4 +1,4 @@
-# Hi, I'm Busari Akeem Tunde 👋🏾
+# Hello, I'm Busari Akeem Tunde 👋🏾
 
 ### Backend Software Engineer | Python • Django • REST APIs • PostgreSQL
 
